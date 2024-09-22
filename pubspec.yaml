@@ -31,7 +31,6 @@ dependencies:
   transparent_image: 2.0.1
   url_launcher: ^6.1.2
   vector_math: ^2.1.2
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
